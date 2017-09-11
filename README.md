@@ -1,5 +1,4 @@
-# watson-4-good-website
-Website for watson 4 good
+# Watson For Good
 
 {% include index/concept.md %}
 
