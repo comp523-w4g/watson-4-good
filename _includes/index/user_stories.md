@@ -5,3 +5,7 @@
   - some other users in this category may want to customize what colors are represented in the sentiment analysis, or run the analysis on multiple hashtags surrounding an issue
 * **Users who wish to build upon the platform**
   - users who wish to develop and expand upon our platform. This type of user will probably want access to technical documentation and help guides involving our platform. 
+ * **Personas**
+ - John: I'm covering a story on how students feel about DACA for the Daily Tar Heel. I'll look at W4G's monitor which displays the overall sentiment. I'll include this sentiment, and a photo of the monitor in my story.
+ - Mary: I like W4G's idea, but I want to expand upon it and add my own features. I will read the technical documentation to understand how it works, then try to tweak it for my own needs.
+
