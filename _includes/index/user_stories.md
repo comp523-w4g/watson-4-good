@@ -1,5 +1,5 @@
 ## <a name="uses"></a>Users and Use Cases
-##### We anticipate having two types of general users
+### We anticipate having two types of general users
 * **Users who wish to use the platform**
   - users who require only basic functionality, i.e. a simple visual representation of aggregated sentiment around a single given hashtag
   - some other users in this category may want to customize what colors are represented in the sentiment analysis, or run the analysis on multiple hashtags surrounding an issue
