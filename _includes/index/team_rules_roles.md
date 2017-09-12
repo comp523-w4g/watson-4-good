@@ -14,7 +14,7 @@
 * **Client Meeting:** Fridays…? TBD 
 
 ## Team Rules
-- **Primary Contact Slack Channel:** Watson4Good.slack.com
+- **Primary Contact Slack Channel:** [Watson4Good.slack.com](https://watson4good.slack.com)
 - **Expected Response Time:** <24 hours, <12 hours if **@mentioned**
 - **Maximum Wait for Late Meeting Arrival:** **5 minutes**
   - Notify teammates **as soon as possible** via Slack if a meeting is going to be missed
@@ -23,3 +23,4 @@
   - Utilize outside resources (the client, peers, professors, the internet, etc.)
   - Ask a teammate to review the issue.
 - **Minimum Warning for Missed Deadline:** 24 hours
+
