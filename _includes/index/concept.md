@@ -1,5 +1,5 @@
-## <a name="concept"></a>Project Concept and Introduction
-
+# <a name="concept"></a>Project Concept and Introduction
+## Art + Activism = Artivism
 **This project’s goal is to provide a platform that other students can use for “artivisim” by aggregating social media data on campus/community related issues and providing sentiment-analysis via IBM Watson.**
 <br />
 <br />
