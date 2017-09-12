@@ -1,4 +1,4 @@
-# Users and Use Cases
+## Users and Use Cases
 We anticipate having two types of general users
 * **Users who wish to use the platform**
   - users who require only basic functionality, i.e. a simple visual representation of aggregated sentiment around a single given hashtag
