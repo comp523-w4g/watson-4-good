@@ -21,5 +21,5 @@
 - **Requests for Decision:** Indicate default choice (ie, “if no response I’ll assume yes”) and response window minimum 12 hours
 - **Slippages:** Endeavor to avoid getting stuck on one issue:
   - Utilize outside resources (the client, peers, professors, the internet, etc.)
-Ask a teammate to review the issue.
+  - Ask a teammate to review the issue.
 - **Minimum Warning for Missed Deadline:** 24 hours
