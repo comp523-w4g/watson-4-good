@@ -1,7 +1,7 @@
 ## <a name="platform"></a>Platform
 ### Languages 
-- Node.JS, JavaScript
-<br />
+ Node.JS, JavaScript
+
 ### APIs etc...
 * IBM Watson: IBM’s Cognitive Color Tool, Tone Analyzer, Natural Language Understanding
 * Twitter API
