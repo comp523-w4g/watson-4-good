@@ -19,6 +19,7 @@ const Twit = require('twit');
 const NaturalLanguageUnderstandingV1 = require('watson-developer-cloud/natural-language-understanding/v1.js');
 
 const app = express();
+
 const nlu = new NaturalLanguageUnderstandingV1({
   version_date: NaturalLanguageUnderstandingV1.VERSION_DATE_2017_02_27,
 });
@@ -41,7 +42,6 @@ app.use(bodyParser.json());
 
 // Bootstrap application settings
 require('./config/express')(app);
-
 
 app.get('/', (req, res) => {
   res.render('index', {

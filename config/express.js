@@ -22,10 +22,7 @@ const path = require('path');
 
 module.exports = (app) => {
   app.enable('trust proxy');
-  app.set('view engine', 'jsx');
-  app.engine('jsx', require('express-react-views').createEngine());
-
-
+  app.set('view engine', 'html');
   // Only loaded when running in Bluemix
   if (process.env.VCAP_APPLICATION) {
     require('./security')(app);
@@ -37,7 +34,6 @@ module.exports = (app) => {
   const browserifyier = expressBrowserify('./public/scripts/bundle.jsx', {
     watch: isDev,
     debug: isDev,
-    extension: ['jsx'],
     transform: ['babelify'],
   });
   if (!isDev) {
