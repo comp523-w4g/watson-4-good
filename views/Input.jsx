@@ -1,4 +1,5 @@
 import React from 'react';
+// import TagsInput from 'react-tagsinput';
 import PropTypes from 'prop-types';
 import lang from 'language-list';
 import { parser } from 'css-math';
@@ -18,6 +19,7 @@ const buttonBreakpoint = '400px';
 const styles = StyleSheet.create({
   container: {
     maxWidth: parser(`${MAX_CONTENT_WIDTH} - 1rem`),
+
   },
   header: {
     marginTop: '6rem',
@@ -26,14 +28,15 @@ const styles = StyleSheet.create({
     fontWeight: weight.NORMAL,
   },
   textarea: {
-    border: 'none',
+    border: 'solid',
     borderWidth: '1px',
-    padding: '0rem',
+      borderRadius: '5px',
+    padding: '1rem',
     resize: 'none',
-    height: '6rem',
+    height: '1rem',
     ':focus': {
-      border: 'none',
-      outline: 'none',
+      // border: 'none',
+      // outline: 'none',
     },
   },
   buttonContainer: {
@@ -82,7 +85,7 @@ const Input = React.createClass({
 
   propTypes: {
     text: PropTypes.string.isRequired,
-    url: PropTypes.string.isRequired,
+    // url: PropTypes.string.isRequired,
     language: PropTypes.string,
     disableButton: PropTypes.bool,
     onSubmit: PropTypes.func,
@@ -105,8 +108,7 @@ const Input = React.createClass({
 
   getInitialState() {
     return {
-      text: this.props.text,
-      url: this.props.url,
+      text: this.props.text
     };
   },
 
@@ -118,43 +120,32 @@ const Input = React.createClass({
   render() {
     return (
       <div className={css(styles.container)}>
-        <h3 className={css(styles.header)}>Examine a news article or other content</h3>
-        <Tabs
-          selected={index}
-          onChange={(i) => {
-            index = i;
-            this.props.onTabChange.call(this);
-          }}
-        >
+        <h3 className={css(styles.header)}>Enter Hashtags you wish to analyze</h3>
+        {/*<Tabs*/}
+          {/*selected={index}*/}
+          {/*onChange={(i) => {*/}
+            {/*index = i;*/}
+            {/*this.props.onTabChange.call(this);*/}
+          {/*}}*/}
+        {/*>*/}
           <Pane label="Text">
             {/* hack to render textarea properly */}
             <div style={{ visibility: 'hidden', margin: '0rem 0rem -1rem', height: '0rem', overflow: 'hidden' }} />
             <textarea
               className={css(styles.textarea)}
               defaultValue={this.state.text}
-              rows="7"
+              rows="1"
               onChange={(e) => {
                 this.setState({ text: e.target.value });
                 this.props.onInputChange.call(this, e);
               }}
             />
           </Pane>
-          <Pane label="URL">
-            <textarea
-              className={css(styles.textarea)}
-              defaultValue={this.state.url}
-              onChange={(e) => {
-                this.setState({ url: e.target.value });
-                this.props.onInputChange.call(this, e);
-              }}
-            />
-          </Pane>
-        </Tabs>
+        {/*</Tabs>*/}
         <p
           style={{ visibility: this.props.language ? 'visible' : 'hidden' }}
           className={css(styles.language)}
         >{this.props.language ? languages.getLanguageName(this.props.language) : null}</p>
-        <p className={css(styles.footnote)}>For results unique to your business needs consider building a <a href="https://www.ibm.com/us-en/marketplace/supervised-machine-learning" target="_blank" rel="noopener noreferrer" >custom model</a>.</p>
         <div className={css(styles.buttonContainer)}>
           <button
             disabled={this.props.disableButton}
