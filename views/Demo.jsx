@@ -2,6 +2,7 @@ import React from 'react';
 import scrollToElement from 'scroll-to-element';
 import { isUri } from 'valid-url';
 import Input from './Input.jsx';
+import ButtonGroup from './ButtonGroup.jsx';
 import Output from './Output/Output.jsx';
 import { analyzeWithAllFeatures } from './utils/request';
 
@@ -57,6 +58,8 @@ export default React.createClass({
           onSubmit={this.onSubmitClick}
           onTabChange={this.enableButton}
           onInputChange={this.enableButton}
+        />
+        <ButtonGroup
         />
         <div id="anchor" style={{ marginTop: '0rem' }} />
         { !this.state.error ? (

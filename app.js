@@ -103,5 +103,4 @@ function formatForNLU(string) {
 
 // error-handler settings
 require('./config/error-handler')(app);
-
 module.exports = app;
