@@ -7,7 +7,7 @@ import Output from './Output/Output.jsx';
 import { analyzeWithAllFeatures } from './utils/request';
 
 // eslint-disable-next-line
-const DEFAULT_TEXT = 'Enter Hashtags here...';
+const DEFAULT_TEXT = '';
 // const DEFAULT_URL = 'http://www.forbes.com/sites/alexkonrad/2016/01/29/new-ibm-watson-chief-david-kenny-talks-his-plans-for-ai-as-a-service-and-the-weather-company-sale/';
 export default React.createClass({
   displayName: 'Demo',

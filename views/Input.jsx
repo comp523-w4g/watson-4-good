@@ -33,16 +33,16 @@ const styles = StyleSheet.create({
       borderRadius: '5px',
     padding: '1rem',
     resize: 'none',
-    height: '1rem',
-    ':focus': {
-      // border: 'none',
-      // outline: 'none',
-    },
+    // height: '1rem',
+      display: 'flex',
+    alignItems: 'center',
+    justifyContent: 'center',
   },
   buttonContainer: {
     display: 'block',
     marginTop: '2rem',
     marginBottom: '3rem',
+
     [breakpoint(buttonBreakpoint)]: {
       display: 'flex',
       alignItems: 'center',
@@ -55,6 +55,9 @@ const styles = StyleSheet.create({
     width: '100%',
     marginBottom: '2rem',
     [breakpoint(buttonBreakpoint)]: {
+        display: 'flex',
+        alignItems: 'center',
+        alignContent: 'flex-start',
       width: 'auto',
       margin: '0rem 1rem 0rem 0rem',
     },
@@ -131,7 +134,7 @@ const Input = React.createClass({
           <Pane label="Text">
             {/* hack to render textarea properly */}
             <div style={{ visibility: 'hidden', margin: '0rem 0rem -1rem', height: '0rem', overflow: 'hidden' }} />
-            <textarea
+            <textarea placeholder="Add a Hashtag"
               className={css(styles.textarea)}
               defaultValue={this.state.text}
               rows="1"
