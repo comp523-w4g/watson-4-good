@@ -4,3 +4,4 @@
 * [Team Rules](#rules)
 * [Users and Use Cases](#uses)
 * [Platform](#platform) 
+* [Functional Spec](#func_spec)
