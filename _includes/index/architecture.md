@@ -1,4 +1,6 @@
-# # <a name="architecture"></a>Design Doc
+# <a name="architecture"></a>Design Doc
+
+
 ## <a name="architecture"></a>Architecture
 ## Backend Diagram
 ![diagram](https://image.ibb.co/i4eidw/w4g_backend_architecture.png "architecture")
@@ -6,7 +8,7 @@
 ## Client-side Diagram
 ![client-side architecture](https://image.ibb.co/cCCDyw/client_architecture.png)
 
-## Design Details
+## Design Decomposition
 **End to end pipeline overview:**
 
 -   Client sends hashtags using socket.io in an 'filter' event

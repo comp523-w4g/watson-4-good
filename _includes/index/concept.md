@@ -1,3 +1,12 @@
+<!-- <a name = "requirements"></a>
+# Requirements Deliverables
+* [Project Concept](#concept)
+* [Users and Use Cases](#uses)
+* [Personas](#personas)
+* [Platform](#platform)
+* [Team Roles, Rules, and Meetings](#roles)
+* [Prototype](http://vue-twitter-stream-watson.mybluemix.net/ "app") -->
+
 # <a name="concept"></a>Project Concept and Introduction
 ## Art + Activism = Artivism
 **This project’s goal is to provide a platform that other students can use for “artivisim” by aggregating social media data on campus/community related issues and providing sentiment-analysis via IBM Watson.**
