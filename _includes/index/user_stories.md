@@ -1,7 +1,6 @@
 <a name = "requirements"></a>
-### [Requirements Deliverables](#requirements)
+#[Requirements Deliverables]
 * [Users and Use Cases](#uses)
-* [Platform](#platform) 
 * [Functional Spec](#func_spec)
 * [Architecture](#architecture)
 * [Live App](#live_app)
