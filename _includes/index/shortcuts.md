@@ -7,4 +7,5 @@
 * [Platform](#platform) 
 * [Functional Spec](#func_spec)
 * [Architecture](#architecture)
+* [Test Plan](#test_plan)
 * [Live App](#live_app)

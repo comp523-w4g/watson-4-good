@@ -10,8 +10,8 @@
 [4]: mailto:victorvi@cs.unc.edu "victorvi@cs.unc.edu"
 
 ## Standing Meetings
-* **Group Meeting:** 12:00 PM - 2:00 PM on SUNDAYS
-* **Client Meeting:** Fridays…? TBD 
+* **Group Meeting:** 12:00 PM - 2:00 PM on Sundays
+* **Client Meeting:** Fridays…TBD
 
 ## Team Rules
 - **Primary Contact Slack Channel:** [Watson4Good.slack.com](https://watson4good.slack.com)
