@@ -9,3 +9,4 @@
 * [Architecture](#architecture)
 * [Test Plan](#test_plan)
 * [Live App](#live_app)
+* [User Manual](#user_manual)

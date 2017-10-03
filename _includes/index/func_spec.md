@@ -1,5 +1,5 @@
 # <a name="func_spec"></a>Functional Spec
-## Watson-4-good
+## Watson-4-Good
 * The primary function of our app is inspire activism through art using sentiment visualization of twitter hashtags.
 
 ## Requirements (prioritized)
