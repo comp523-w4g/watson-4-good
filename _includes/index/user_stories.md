@@ -50,6 +50,9 @@ This user might want to add more features/expand more heavily than what our basi
 * <span style="color:orange">Utilize a county map to display sentiment for tweets by county</span>
 * <span style="color:orange">Display a live tweet "feed" that shows texts and usernames of incoming tweets</span>
 
+* <span style="color:black">Add mouse-over support for features as part of user manual plan</span>
+* <span style="color:black">Add FAQ pop-up near info button on nav bar as part of user manual plan</span>
+  * <span style="color:black">Include a FAQ for basic user and advanced user</span>
 * <span style="color:black">Persist the graphs on the app page once stream has ended</span>
 * <span style="color:black">Add option for running analysis on tweets in a certain time range</span>
 * <span style="color:black">Generate CSV file or another exportable file containing tweet data and sentiment analysis</span>
