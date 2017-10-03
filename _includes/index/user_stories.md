@@ -5,6 +5,7 @@
 * [Functional Spec](#func_spec)
 * [Architecture](#architecture)
 * [Live App](#live_app)
+* [User Manual](#user_manual)
 
 ## <a name="uses"></a>General User Types
 ### We anticipate having two types of general users
