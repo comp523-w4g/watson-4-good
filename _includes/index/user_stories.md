@@ -15,8 +15,8 @@
   - users who wish to develop and expand upon our platform. This type of user will probably want access to technical documentation and help guides involving our platform. 
   - this type of user could be charachterized as a 'developer'
  * **Personas**
-  - John: I'm covering a story on how students feel about DACA for the Daily Tar Heel. I'll look at W4G's monitor which displays the overall sentiment. I'll include this sentiment, and a photo of the monitor in my story.
-  - Mary: I like W4G's idea, but I want to expand upon it and add my own features. I will read the technical documentation to understand how it works, then try to tweak it for my own needs.
+   - John: I'm covering a story on how students feel about DACA for the Daily Tar Heel. I'll look at W4G's monitor which displays the overall sentiment. I'll include this sentiment, and a photo of the monitor in my story.
+   - Mary: I like W4G's idea, but I want to expand upon it and add my own features. I will read the technical documentation to understand how it works, then try to tweak it for my own needs.
 
 ## Specific User Types
 1. Basic Visualization User
