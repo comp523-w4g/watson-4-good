@@ -17,23 +17,18 @@
 * <span style="color:orange">orange = in Progress</span>
 * <span style="color:black"> black = To Do</span> 
 
-<a style="color:green">
-* User inputs up to three tags he/she wants to analyze into search bar
-* User hits Enter and live-stream starts
-* Highcharts are generated to visualize data
-	* Have a meter that shows tweets per second
-	* Have a bar chart that shows current count of tweets by hashtag
-	* Have a Sentiment Analysis Chart that updates with the average sentiment score for each hashtag as tweets come in
-* Make graphs support multiple hashtags
-</a>
-<a style="color:orange">
-* Utilize a county map to display sentiment for tweets by county
-* Display a live tweet "feed" that shows texts and usernames of incoming tweets
-</a>
-<a style="color:black">
-* User inputs up to three tags he/she wants to analyze into search bar
-* User hits Enter and live-stream starts
-</a>
+
+* <span style="color:green"> User inputs up to three tags he/she wants to analyze into search bar </span> 
+* <span style="color:green"> User hits Enter and live-stream starts</span> 
+* <span style="color:green">Highcharts are generated to visualize data</span> 
+	* <span style="color:green">Have a meter that shows tweets per second</span> 
+	* <span style="color:green">Have a bar chart that shows current count of tweets by hashtag</span> 
+	* <span style="color:green">Have a Sentiment Analysis Chart that updates with the average sentiment score for each hashtag as tweets come in</span> 
+* <span style="color:green">Make graphs support multiple hashtags</span> 
+* <span style="color:orange">Utilize a county map to display sentiment for tweets by county</span>
+* <span style="color:orange">Display a live tweet "feed" that shows texts and usernames of incoming tweets</span>
+* <span style="color:black">User inputs up to three tags he/she wants to analyze into search bar</span>
+* <span style="color:black">User hits Enter and live-stream starts</span>
 
 ## User Types
 1. Basic Visualization User
