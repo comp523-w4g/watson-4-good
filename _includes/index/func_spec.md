@@ -13,9 +13,9 @@
 8. Protect API keys
 
 ## Use Cases 
-* <span style="color:green"> green = Completed</span>
-* <span style="color:orange">orange = in Progress</span>
-* <span style="color:black"> black = To Do</span> 
+#### <span style="color:green"> green = Completed</span>
+#### <span style="color:orange">orange = in Progress</span>
+#### <span style="color:black"> black = To Do</span> 
 
 
 * <span style="color:green"> User inputs up to three tags he/she wants to analyze into search bar </span> 
