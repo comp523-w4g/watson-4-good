@@ -5,4 +5,4 @@
 	* The replacement with the stream button is a further visual cue that indicates to the user how the app should be operated.
 * After that, all the user has to do is watch as charts and sentiment analysis is automatically generated and dynamically updated.
 
-![Main User Page](_includes/images/main_page.png)
+![Main User Page](./images/main_page.png)
