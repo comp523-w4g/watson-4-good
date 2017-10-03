@@ -1,7 +1,7 @@
 # <a name="sprint"></a>Sprint Deliverables
 
 # <a name="func_spec"></a>Functional Spec
-## Watson-4-Good
+## Watson-4-Good Concept
 * The primary function of our app is inspire activism through art using sentiment visualization of twitter hashtags.
 
 ## Requirements (prioritized)
@@ -16,10 +16,15 @@
 
 ## Interfaces
 * Basic 
-1. Running sentiment on one or more hashtag(s)
-2. Enter hashtag into the input bar
-3. Hit button which will query the back-end API
-4. Visualize results
+	-  Running sentiment on one or more hashtag(s)
+
+* Advanced User
+	-  Running sentiment on tweets that are not a live-feed
+		- Import from a database
+		- Analyze tweets from a date range specified by user
+	- Exports sentiment results and tweets after finished running into a usable file
+	- running sentiment on past "saved/favorited" hashtags
+
 
 ## Specific User Types
 1. Basic Visualization User
