@@ -1,8 +1,8 @@
 # <a name="architecture"></a>Architecture
-# Backend Architecture
+## Backend Diagram
 ![diagram](https://image.ibb.co/i4eidw/w4g_backend_architecture.png "architecture")
 
-# Client-side Architecture Diagram
+## Client-side Diagram
 ![client-side architecture](https://image.ibb.co/cCCDyw/client_architecture.png)
 
 # Live App

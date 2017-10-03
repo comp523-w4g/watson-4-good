@@ -13,7 +13,7 @@
 * **Group Meeting:** 12:00 PM - 2:00 PM on SUNDAYS
 * **Client Meeting:** Fridays…? TBD 
 
-## <a name="rules"></a>Team Rules
+## Team Rules
 - **Primary Contact Slack Channel:** [Watson4Good.slack.com](https://watson4good.slack.com)
 - **Expected Response Time:** <24 hours, <12 hours if **@mentioned**
 - **Maximum Wait for Late Meeting Arrival:** **5 minutes**

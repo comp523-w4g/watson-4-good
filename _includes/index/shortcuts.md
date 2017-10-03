@@ -1,7 +1,8 @@
-### Requirements Deliverables
+### General Project
 * [Project Concept](#concept)
-* [Team Roles and Meetings](#roles)
-* [Team Rules](#rules)
+* [Team Roles, Rules, and Meetings](#roles)
+
+### [Requirements Deliverables](#requirements)
 * [Users and Use Cases](#uses)
 * [Platform](#platform) 
 * [Functional Spec](#func_spec)
