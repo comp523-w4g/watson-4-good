@@ -5,20 +5,6 @@
 # Client-side Architecture Diagram
 ![client-side architecture](https://image.ibb.co/cCCDyw/client_architecture.png)
 
-
 # Live App
  <a name="live_app"></a>
 [Go Here](http://vue-twitter-stream-watson.mybluemix.net/ "app")
-
-# Quickstart
-
-```sh
-$ git clone https://github.com/fabiandev/vue-twitter-stream-app.git
-$ cd vue-twitter-stream-app
-$ cp server/.env.example server/.env
-$ yarn
-```
-
-Now fill in your credentials in `server/.env` and run `yarn start`.
-
-
