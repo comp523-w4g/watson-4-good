@@ -1,7 +1,7 @@
 ## <a name="platform"></a>Platform
 
 * Technologies used
-Uses Vue.js as client, Twitter API for streaming, Watson Tone Analyzer, socket.io to tie server and client.
+Uses _Vue.js_ for the client-side, _Twitter API_ for streaming, _Watson Tone Analyzer_, _socket.io_ to tie server and client.
 
 Our app depends on:
 - [Vue](https://vuejs.org) as a front-end framework.

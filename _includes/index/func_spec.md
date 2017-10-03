@@ -15,29 +15,26 @@
 8. Protect API keys
 
 ## Interfaces
-* Basic 
+* Basic Users
 	-  Running sentiment on one or more hashtag(s)
 
-* Advanced User
-	-  Running sentiment on tweets that are not a live-feed
+* Advanced Users
+	-  Running sentiment on hisrotical tweets
 		- Import from a database
 		- Analyze tweets from a date range specified by user
-	- Exports sentiment results and tweets after finished running into a usable file
-	- running sentiment on past "saved/favorited" hashtags
+	- Exports sentiment results and tweets from an imported file
+	- Running sentiment on past "saved/favorited" hashtags
 
 
 ## Specific User Types
 1. Basic Visualization User
-* A user who goes to our app and just wants to see a sentiment visualization
-Requires no technical knowledge- user just has to navigate to our page and input their desired tags
+* A user who goes to our app and just wants to see a sentiment visualization. Requires no technical knowledge - user just has to navigate to our page and input their desired tags
 2. Student User
-* Students who can easily use our platform for artivism
-This is more of an “educational” use case. Young students can use the platform to research sentiment about topics and conduct further research. They may want a downloadable summary of their query as well.
+* Students who can easily use our platform for artivism. This is more of an “educational” use case. Young students can use the platform to research sentiment about topics and conduct further research. They may want a downloadable summary of their query as well.
 3. Political/Business User
 * A user who uses our platform for analysis on certain issues pertaining to their campaign/constituents/business/etc. They may want the option to save hashtag settings, export sentiment as a .csv file, or run sentiment on past tweets instead of a live stream.
 4. Developer User
-* Someone with technical knowledge 
-This user might want to add more features/expand more heavily than what our basic platform provides.  
+* Someone with technical knowledge. This user might want to add more features / extend our basic platform.
 
 ## Use Cases 
 - <span style="color:green"> Green = Completed</span>
