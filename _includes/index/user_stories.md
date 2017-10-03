@@ -1,5 +1,6 @@
 <a name = "requirements"></a>
 # Requirements Deliverables
+* [Platform](#platform)
 * [Users and Use Cases](#uses)
 * [Functional Spec](#func_spec)
 * [Architecture](#architecture)
