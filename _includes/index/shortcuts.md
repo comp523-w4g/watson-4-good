@@ -22,7 +22,7 @@ Executable Code and Instructions -->
 * [Team Roles, Rules, and Meetings](#roles)
 * [Prototype](http://vue-twitter-stream-watson.mybluemix.net/ "app")
 
-### [Sprint Deliverables](#requirements)
+### [Sprint Deliverables](#sprint)
 * [Functional Spec](#func_spec)
 * [Design Doc & Architecture](#architecture)
 * [Test Plan](#test_plan)

@@ -1,11 +1,11 @@
 <a name = "requirements"></a>
-# Requirements Deliverables
-* [Platform](#platform)
-* [Users and Use Cases](#uses)
+### [Sprint Deliverables](#requirements)
 * [Functional Spec](#func_spec)
-* [Architecture](#architecture)
-* [Live App](#live_app)
+* [Design Doc & Architecture](#architecture)
+* [Test Plan](#test_plan)
 * [User Manual](#user_manual)
+* [GitHub Repo](https://github.com/comp523-w4g/vue-twitter-stream "repo")
+* [Live App](#live_app)
 
 ## <a name="uses"></a>General User Types
 ### We anticipate having two types of general users
