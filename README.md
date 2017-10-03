@@ -7,6 +7,7 @@
 {%include index/user_stories.md %}
 {%include index/func_spec.md %}
 {%include index/architecture.md %}
-{%include index/test_plan.md %}
 {%include index/user_manual.md %}
+{%include index/test_plan.md %}
+
 

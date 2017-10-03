@@ -1,4 +1,4 @@
-</br>
+
 # <a name="user_manual"></a>User Manual
 ## Basic User Manual
 * Our app is designed to be as simple as possible for our most basic user. We want the interface to be intuitive and obvious. Text on screen provides the necessary visual prompts to make users input hashtags. 
