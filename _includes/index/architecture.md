@@ -18,4 +18,4 @@ $ yarn
 Now fill in your credentials in `server/.env` and run `yarn start`.
 
 # Live Example
-![live app](http://vue-twitter-stream-watson.mybluemix.net/ "app")
+[live app](http://vue-twitter-stream-watson.mybluemix.net/ "app")
