@@ -6,6 +6,10 @@
 ![client-side architecture](https://image.ibb.co/cCCDyw/client_architecture.png)
 
 
+# Live App
+ <a name="live_app"></a>
+[Go Here](http://vue-twitter-stream-watson.mybluemix.net/ "app")
+
 # Quickstart
 
 ```sh
@@ -17,6 +21,4 @@ $ yarn
 
 Now fill in your credentials in `server/.env` and run `yarn start`.
 
-# Live App
- <a name="live_app"></a>
-* [Go Here](http://vue-twitter-stream-watson.mybluemix.net/ "app")
+
