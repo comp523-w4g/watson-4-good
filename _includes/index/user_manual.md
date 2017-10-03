@@ -5,9 +5,9 @@
 * We also will add a **FAQ** button on the top nav to clearly lay out the common questions for using the app or how to get the best outcomes.
 * Our app is designed to be as simple as possible for our most basic user. We want the interface to be **intuitive and obvious**.
 	*  Text on screen provides the necessary visual prompts to make users input hashtags. 
-	* Once one hashtag is entered, the text saying to input at least one hashtag is replaced by a button that once clicks starts the live stream. 
+	* Once one hashtag is entered, the placeholder text is replaced by a button that once clicked starts the live stream. 
 	* The replacement with the stream button is a further visual cue that indicates to the user how the app should be operated.
-	* After that, all the user has to do is watch as charts and sentiment analysis is automatically generated and dynamically updated.
+	* After that, all the user has to do is watch as charts and sentiment analysis are automatically generated and dynamically updated.
 
 ## Advanced User Manual
 For the user who wants to **develop and take our platform further**
