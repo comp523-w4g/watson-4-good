@@ -1,4 +1,10 @@
 # <a name="sprint"></a>Sprint Deliverables
+* [Functional Spec](#func_spec)
+* [Design Doc & Architecture](#architecture)
+* [Test Plan](#test_plan)
+* [User Manual](#user_manual)
+* [GitHub Repo](https://github.com/comp523-w4g/vue-twitter-stream "repo")
+* [Live App](http://vue-twitter-stream-watson.mybluemix.net/  "app")
 
 # <a name="func_spec"></a>Functional Spec
 ## Watson-4-Good Concept
