@@ -17,5 +17,5 @@ $ yarn
 
 Now fill in your credentials in `server/.env` and run `yarn start`.
 
- # <a name="live_app"></a>Live App
-[Go Here](http://vue-twitter-stream-watson.mybluemix.net/ "app")
+ <a name="live_app"></a>Live App
+* [Go Here](http://vue-twitter-stream-watson.mybluemix.net/ "app")
