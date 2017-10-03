@@ -13,11 +13,11 @@
 8. Protect API keys
 
 ## Use Cases 
-<span style="color:green"> green = Completed</span>
-<span style="color:orange">orange = in Progress</span>
-<span style="color:black"> black = To Do</span> 
+* <span style="color:green"> green = Completed</span>
+* <span style="color:orange">orange = in Progress</span>
+* <span style="color:black"> black = To Do</span> 
 
-<span style="color:green">
+<p style="color:green">
 * User inputs up to three tags he/she wants to analyze into search bar
 * User hits Enter and live-stream starts
 * Highcharts are generated to visualize data
@@ -25,15 +25,15 @@
 	* Have a bar chart that shows current count of tweets by hashtag
 	* Have a Sentiment Analysis Chart that updates with the average sentiment score for each hashtag as tweets come in
 * Make graphs support multiple hashtags
-</span>
-<span style="color:orange">
+</p>
+<p style="color:orange">
 * Utilize a county map to display sentiment for tweets by county
 * Display a live tweet "feed" that shows texts and usernames of incoming tweets
-</span>
-<span style="color:black">
+</p>
+<p style="color:black">
 * User inputs up to three tags he/she wants to analyze into search bar
 * User hits Enter and live-stream starts
-</span>
+</p>
 
 ## User Types
 1. Basic Visualization User
