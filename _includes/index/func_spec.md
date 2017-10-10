@@ -42,9 +42,9 @@
 * Someone with technical knowledge. This user might want to add more features / extend our basic platform.
 
 ## Use Cases 
-<span style="color:green"> Green = **Completed**</span>
-<span style="color:orange">Orange = **In Progress**</span>
-<span style="color:black"> Black = **To Do**</span> 
+<span style="color:green"> Green = **Completed**   </span>
+<span style="color:orange">Orange = **In Progress**   </span>
+<span style="color:black"> Black = **To Do**    </span> 
 <span style="color:red"> Red = **Tentative**</span> 
 
 * <span style="color:green"> User inputs up to three tags he/she wants to analyze into search bar </span> 
