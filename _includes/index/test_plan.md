@@ -10,6 +10,7 @@
  -->
 ### **Automated**
 * Run canary tests periodically
+* JSEOC (npm module) for auto-generating API documentation based on I/O
 
 ### **Regression**
 * Make sure updates and new commits don't interfere with existing functionality 
