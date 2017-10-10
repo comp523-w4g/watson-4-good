@@ -27,7 +27,7 @@
 * Advanced Users
 	-  Running sentiment on hisrotical tweets
 		- Select certain sentiments to analyze
-	- Exports sentiment results and tweets from an imported file
+	- Export/Download sentiment results
 	- Running sentiment on past "saved/favorited" hashtags
 
 
@@ -42,10 +42,10 @@
 * Someone with technical knowledge. This user might want to add more features / extend our basic platform.
 
 ## Use Cases 
-- <span style="color:green"> Green = Completed</span>
-- <span style="color:orange">Orange = In Progress</span>
-- <span style="color:black"> Black = To Do</span> 
-- <span style="color:black"> Red = Tentative</span> 
+<span style="color:green"> Green = **Completed**</span>
+<span style="color:orange">Orange = **In Progress**</span>
+<span style="color:black"> Black = **To Do**</span> 
+<span style="color:red"> Red = **Tentative**</span> 
 
 * <span style="color:green"> User inputs up to three tags he/she wants to analyze into search bar </span> 
 * <span style="color:green"> User hits Enter and live-stream starts</span> 
