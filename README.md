@@ -12,6 +12,4 @@
 {%include index/architecture.md %}
 {%include index/test_plan.md %}
 {%include index/user_manual.md %}
-{%include index/live_app.md %}
-
- -->
+{%include index/live_app.md %}-->
