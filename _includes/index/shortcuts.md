@@ -17,7 +17,7 @@ client guide
 * [Deployed App](http://vue-twitter-stream-watson.mybluemix.net/ "app")
 * Video Demo
 * [Client Hand-Off Guide](https://docs.google.com/document/d/e/2PACX-1vRVnWv-VPc3TP8mDEDwdlxI0pe3vaaU9kgYAsBWVDsKXHhHjauAXqQDHUKf-o6bkSB9ZFgNm7si4a0y/pub "client guide")
-* Checkout our latest sprint to see [all docs in one place](https://docs.google.com/document/d/e/2PACX-1vTIAOexZPcojxa8_4qc2SRKBl4Esh5neDigz5LqflYuNv_1cfIEOpIZuupeVflVdBWvTiZuGeAYDq6G/pub "latest sprint")
+* [Football Case Study](hhttps://docs.google.com/document/d/e/2PACX-1vQGO8xnBOfoSy1Jef3LPYsd9BvV0vjDTxEGIYsmiG5u3kdQqrA7Mj4S7AtMbIoa7bn7Px6xkzMbrqFr/pub "case study")
 
 ### Past Sprint Snapshots
 * [11/28](https://docs.google.com/document/d/e/2PACX-1vTIAOexZPcojxa8_4qc2SRKBl4Esh5neDigz5LqflYuNv_1cfIEOpIZuupeVflVdBWvTiZuGeAYDq6G/pub "sprint 4")
