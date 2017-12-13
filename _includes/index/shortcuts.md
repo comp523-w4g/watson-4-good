@@ -33,6 +33,10 @@ client guide
 * [Team Roles, Rules, and Meetings](#roles)
 * [Prototype](http://vue-twitter-stream-watson.mybluemix.net/ "app")
 
+### Video Demo
+<video width="400" controls>
+  <source src="w4g-demo.mp4" type="video/mp4">
+</video>
 <!-- ## [Current Sprint Deliverables](#sprint)
 * [Functional Spec](#func_spec)
 * [Design Doc & Architecture](#architecture)
