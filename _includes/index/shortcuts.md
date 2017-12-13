@@ -34,7 +34,7 @@ client guide
 * [Prototype](http://vue-twitter-stream-watson.mybluemix.net/ "app")
 
 ### Video Demo
-<video src="/_includes/index/w4g-demo.mp4" height="500" width="750" controls></video>
+<video src="w4g-demo.mp4" height="500" width="750" controls></video>
 
 <!-- ## [Current Sprint Deliverables](#sprint)
 * [Functional Spec](#func_spec)
