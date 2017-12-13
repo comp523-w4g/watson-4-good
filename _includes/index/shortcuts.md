@@ -15,7 +15,7 @@ client guide
 * [Test Plan](https://docs.google.com/document/d/e/2PACX-1vREy1xZheYlOx-XpSsNLNpHaSw8Q1lv_GlwKelFbahu-Yki7I4yox5UdybmiQVAntqD-Ewk_3I8HGoR/pub "test plan")
 * [Git Repo](https://github.com/comp523-w4g/vue-twitter-stream "repo")
 * [Deployed App](http://vue-twitter-stream-watson.mybluemix.net/ "app")
-* Video Demo
+* [Video Demo](#video)
 * [Client Hand-Off Guide](https://docs.google.com/document/d/e/2PACX-1vRVnWv-VPc3TP8mDEDwdlxI0pe3vaaU9kgYAsBWVDsKXHhHjauAXqQDHUKf-o6bkSB9ZFgNm7si4a0y/pub "client guide")
 * [Football Case Study](hhttps://docs.google.com/document/d/e/2PACX-1vQGO8xnBOfoSy1Jef3LPYsd9BvV0vjDTxEGIYsmiG5u3kdQqrA7Mj4S7AtMbIoa7bn7Px6xkzMbrqFr/pub "case study")
 
@@ -33,7 +33,7 @@ client guide
 * [Team Roles, Rules, and Meetings](#roles)
 * [Prototype](http://vue-twitter-stream-watson.mybluemix.net/ "app")
 
-### Video Demo
+### a name="video"></a> Video Demo
 <video src="w4g-demo.mp4" height="500" width="750" controls></video>
 
 <!-- ## [Current Sprint Deliverables](#sprint)
