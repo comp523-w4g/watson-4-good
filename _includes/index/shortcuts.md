@@ -35,7 +35,8 @@ client guide
 
 ### <a name="video"></a> Video Demo
 <video src="w4g-demo.mp4" height="500" width="750" controls></video>
-
+### Dean Dome Demo
+<video src="dome.mp4" height="500" width="750" controls></video>
 <!-- ## [Current Sprint Deliverables](#sprint)
 * [Functional Spec](#func_spec)
 * [Design Doc & Architecture](#architecture)
