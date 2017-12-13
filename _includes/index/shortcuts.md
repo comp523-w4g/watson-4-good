@@ -33,7 +33,7 @@ client guide
 * [Team Roles, Rules, and Meetings](#roles)
 * [Prototype](http://vue-twitter-stream-watson.mybluemix.net/ "app")
 
-### a name="video"></a> Video Demo
+### <a name="video"></a> Video Demo
 <video src="w4g-demo.mp4" height="500" width="750" controls></video>
 
 <!-- ## [Current Sprint Deliverables](#sprint)
