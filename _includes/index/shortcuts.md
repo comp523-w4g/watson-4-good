@@ -35,7 +35,7 @@ client guide
 
 ### Video Demo
 <video width="400" controls>
-  <source src="w4g-demo.mp4" type="video/mp4">
+  <source src="/w4g-demo.mp4" type="video/mp4">
 </video>
 <!-- ## [Current Sprint Deliverables](#sprint)
 * [Functional Spec](#func_spec)
